@@ -1,1 +1,1 @@
-# python-scripts
+# This is a collection of python scripts for Windows and Linux.
